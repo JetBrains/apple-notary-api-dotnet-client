@@ -9,7 +9,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="AWSSDK.S3" Version="3.7.101.61"/>
+        <PackageReference Include="AWSSDK.S3" Version="3.7.402.11" />
         <PackageReference Include="JetBrains.Annotations" Version="10.2.1"/>
         <PackageReference Include="Microsoft.IdentityModel.JsonWebTokens" Version="6.35.0"/>
         <PackageReference Include="Newtonsoft.Json" Version="13.0.1"/>
